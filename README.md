@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Stefan
 
-<!--
-**stefanbuchwald/stefanbuchwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering (B.Sc.) | Interested in camera-based tracking, simulation (CFD), and engineering tooling.
 
-Here are some ideas to get you started:
+## Focus
+- Camera-based position tracking in industrial environments
+- Simulation / numerical methods
+- Python / MATLAB basics for analysis and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- (coming soon) Tracking system carrier concept — short write-up + CAD/notes
+- (coming soon) Small Python tools for data processing
+
+
